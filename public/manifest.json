@@ -1,0 +1,16 @@
+{
+  "name": "Gowtham K | Java Developer Portfolio",
+  "short_name": "Gowtham.Java",
+  "description": "Portfolio of Gowtham K - Java Full Stack Developer, Core Java, JDBC, and MySQL Specialist",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#EA580C",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
